@@ -1,0 +1,2 @@
+scratch: scratch_main.cpp scratch.cpp scratch.h
+	g++ --std=c++14 scratch_main.cpp scratch.cpp 
